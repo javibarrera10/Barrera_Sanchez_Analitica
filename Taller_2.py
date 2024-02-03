@@ -1,1 +1,1 @@
-A="Analitica es la mejor clase"
+A="Analitica es una clase"
