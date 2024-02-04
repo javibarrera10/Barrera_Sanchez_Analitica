@@ -1,1 +1,1 @@
-A="Analitica es una clase"
+A="Analitica es la clase"
